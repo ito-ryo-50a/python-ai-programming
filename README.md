@@ -11,7 +11,7 @@ pyenv deactive
 ### 仮想環境を作成する
 コマンド 使用するpythonのバージョン指定 仮想環境につける名前
 ```
-pyenv virtualenv 3.12.2 python-example-environment
+pyenv virtualenv 3.12.2 python-ai-programming
 ```
 
 Python: 3.12.2
