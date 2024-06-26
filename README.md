@@ -11,10 +11,10 @@ pyenv deactivte
 ### 仮想環境を作成する
 コマンド 使用するpythonのバージョン指定 仮想環境につける名前
 ```
-pyenv virtualenv 3.12.2 python-ai-programming
+pyenv virtualenv 3.11.5 python-ai-programming
 ```
 
 ```
-Python: 3.12.2
+Python: 3.11.5
 ChatGPT: ChatGPT4o
 ```
